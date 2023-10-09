@@ -1,0 +1,16 @@
+/* BASIC STYLES HERE */
+
+.trivia-cards {
+    background-color: lightgrey;
+    border-radius: 1%;
+    border: 3px solid black;
+    margin: 0.5rem;
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.img-style {
+    border-radius: 1%;
+    border: 2px solid black;
+}
